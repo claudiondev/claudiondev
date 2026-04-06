@@ -10,7 +10,7 @@
 
 ### 👋 Olá! Eu sou o Claudio
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na UNIASSELVI - já construindo projetos reais do zero ao deploy. Cada linha de código aqui é parte da jornada 🚀. Estou em Campina Grande, PB — e em constante evolução 🚀
+Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — já construindo projetos reais do zero ao deploy. Cada linha de código aqui é parte da jornada. Baseado em Campina Grande, PB 🚀
 
 </div>
 
@@ -125,9 +125,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNIASSELVI - já cons
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/claudiondev](https://www.linkedin.com/in/claudionascimento-dev/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/claudiondev](https://github.com/claudiondev))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudionascimento-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claudiondev)
 
 </div>
 
