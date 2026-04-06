@@ -65,13 +65,6 @@ Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — j�
 
 <div align="center">
 
-<a href="https://github.com/claudiondev/financeiro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=claudiondev&repo=financeiro&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/claudiondev/financeiro-front">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=claudiondev&repo=financeiro-front&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
 </div>
 
 ### 💰 Meu Controle Financeiro
@@ -83,7 +76,7 @@ Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — j�
 - ✅ Dashboard com **resumo financeiro**
 - ✅ UI dark theme responsiva com **Tailwind CSS**
 - ✅ Frontend deployado na **Vercel**
-- 🔄 Backend em processo de deploy (Railway/Render)
+- ✅ Backend deployado e funcionando na **Railway**
 
 **Stack:** `Java` `Spring Boot` `React` `Tailwind CSS` `MySQL` `JWT`
 
@@ -92,10 +85,6 @@ Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — j�
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiondev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiondev&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
