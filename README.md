@@ -77,7 +77,7 @@ Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — j�
 - ✅ UI premium dark mode com **Tailwind CSS & Framer Motion**
 - ✅ Frontend deployado na **Vercel**
 - ✅ Backend deployado e funcionando na **Railway**
-- 
+
 **Stack:** `Java`, `Spring Boot`, `Spring Security`, `JWT`, `MySQL'  React`
   
 ### 💰 Meu Controle Financeiro
