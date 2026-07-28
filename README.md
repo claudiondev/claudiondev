@@ -95,18 +95,6 @@ Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — j�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=claudiondev&theme=github-dark-blue&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
-
-</div>
-
 ---
 
 ## 🐍 Minha contribuição sendo devorada...
