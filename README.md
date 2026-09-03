@@ -10,7 +10,7 @@
 
 ### 👋 Olá! Eu sou o Claudio
 
-Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — já construindo projetos reais do zero ao deploy. Cada linha de código aqui é parte da jornada. Baseado em Campina Grande, PB 🚀
+Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — já construindo projetos reais do zero ao deploy. Cada linha de código aqui é parte da jornada. 🚀
 
 </div>
 
@@ -18,9 +18,9 @@ Em formação em **Análise e Desenvolvimento de Sistemas** na UNIASSELVI — j�
 
 ## 🧠 Sobre mim
 
-- 🎓 Cursando **ADS** na UNIASSELVI (1° semestre)
+- 🎓 Cursando **ADS** na UNIASSELVI (2° semestre)
 - 💻 Desenvolvendo projetos **Full Stack** com Java + Spring Boot e React
-- 🐧 Usuário Linux (Ubuntu) — migrei do Windows e não volto mais
+- 🐧 Usuário Linux (Ubuntu) —
 - 🌱 Sempre aprendendo algo novo
 
 ---
