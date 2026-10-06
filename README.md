@@ -84,7 +84,7 @@
 - ✅ **Backup automático** a cada consulta, com cópia extra para pendrive gravada de forma segura
 - ✅ Roda em um único processo, leve para notebooks modestos
 
-**Stack:** `Java 17` `Spring Boot` `Thymeleaf` `H2` `openhtmltopdf` `Maven` · 🔒 Repositório privado (software comercial)
+**Stack:** `Java 17` `Spring Boot` `Thymeleaf` `H2` `openhtmltopdf` `Maven` ·  (software comercial)
 
 ---
 
