@@ -126,7 +126,7 @@
 
 **Stack:** `Java 17` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Flyway` `Docker` `React` `Vite` `Tailwind CSS` `PWA`
 
-🔗 [**Ver online**]((https://chaveiro-front.vercel.app/)) · 📦 [chaveiro-back](https://github.com/claudiondev/chaveiro-back) · [chaveiro-front](https://github.com/claudiondev/chaveiro-front)
+🔗 [**Ver online**](https://chaveiro-front.vercel.app/) · 📦 [chaveiro-back](https://github.com/claudiondev/chaveiro-back) · [chaveiro-front](https://github.com/claudiondev/chaveiro-front)
 
 ---
 
